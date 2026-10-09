@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="98" height="50" alt="gifmake_com_Github" src="https://github.com/user-attachments/assets/b4d01af8-064f-4473-a68c-aadb9526efe7" />
+<img width="196" height="100" alt="gifmake_com_Github" src="https://github.com/user-attachments/assets/b4d01af8-064f-4473-a68c-aadb9526efe7" />
 
 <!--
 **JhojanMUN/JhojanMUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
